@@ -13,6 +13,7 @@ In this class, I decided on all the additional features that my app would have. 
 
 
 4/7/21
+In this class, I finalized the layout of all my screens, and the general color scheme of my app as well. I drew out all the screens on notability to help myself organize all my plans. Then I began working on the UI for a couple of the app screens such as the Login page, registration page, and the home screen.
 
 
 
