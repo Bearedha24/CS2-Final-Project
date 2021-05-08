@@ -12,12 +12,14 @@ In this class, I finalized the layout of all my screens, and the general color s
 4/12/21
 In this class, I finished making the UI for the home page, and continued making the UI.
 
-4/19/20
-I finished the UI regarding the home screen, and have begun the outline basic coding to move fom screen to screen within the app. I also finished the transition from the login to rgister page, and vice versa. I have also began working on he UI for the page that shows all the runners' past data entries for their runs, and am currently in the process of trying to figure out how tp hook up an accelerometer to the app, so that the app knows how fast the runner has been running, and the change in speeds. I have also finalized the theme and color scheme for the entire app, so now I have a attern that I need to follow with every single screen within the app. 
+4/19/21
+I finished the UI regarding the home screen, and have begun the outline basic coding to move fom screen to screen within the app. I also finished the transition from the login to register page, and vice versa. I have also began working on he UI for the page that shows all the runners' past data entries for their runs, and am currently in the process of trying to figure out how tp hook up an accelerometer to the app, so that the app knows how fast the runner has been running, and the change in speeds. I have also finalized the theme and color scheme for the entire app, so now I have a attern that I need to follow with every single screen within the app. 
 
-4/21/20
+4/21/21
 I began working on the login and registration features for my app. I a, doing this by running all the user inputs throught the records in the data table. If the account is not in the data table, it will prompt the user to create an account or to retype their username or password as they might have got it wrong.
 
+4/23/21
+I was working on the login feature, and was able to get the Username check, to function.
 
 
 
