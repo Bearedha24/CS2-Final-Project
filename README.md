@@ -39,8 +39,8 @@ I created a new screen to start the user's run, and to start picking up speeds. 
 5/9/21 
 I am almost done with the acceleration feature, however I just need to incorporate the circuit into the program once I get to schoo tomorrow so that I can make sure that the festure is 100% functional.
 
-
-
+5/10/21
+Today I was able to get the acceleration feature on my app to be working. I put a delay at the end of a while statement, and was able to integrate the circuit as my product. I also realized that if I keep the circuit on myslef as a watch, whenever i pump my arms, there will be a negative motion, therefore giving the wrong input into the speed data tables. Because of that, i decided to just attach the circuit to my phone using a coupke of rubber bands, because this is just a simple prototype of the actual product.
 
 
 
