@@ -1,5 +1,9 @@
 # CS2-Final-Project
 
+Link to code: https://studio.code.org/projects/applab/l1mUXwcGV1NXRuxO4XcF15qzfAokk7HPVc_y_q0qqwg
+
+Screenshot of Trello Page:  https://user-images.githubusercontent.com/77285909/118899914-cc4fd800-b8dd-11eb-9168-b088a8aa4162.png
+
 3/30/21
 In this class, I decided on my app's purpose and what it's supposed to do. My project is an app that helps runners to have better overview of their run. It helps them to log how long they ran as well as where they started, and where they ended. It wil also prompt them to ask what they felt went well during the run, and what went bad, and what they could improve upon in their next run. It will give them their weekly data, and give them their statistics for the week. I also decided on what platform I'm going to use, which is code.org. I planned to having a login feature as well as a graph feature that shows all the data about the runner's run. 
 
